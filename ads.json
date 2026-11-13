@@ -32,6 +32,29 @@
     "LiftoffRewardID": "YOUR_LIFTOFF_REWARD_ID",
     "LiftoffBannerID": "YOUR_LIFTOFF_BANNER_ID"
   },
+  "Paywall1": {
+    "ShowHardPaywall": false,
+    "ShowHardPaywallFor": 5,
+    "ShowTrial": true,
+    "MonthlySKu": "monthly_sub_sku",
+    "AnnualSKu": "annual_sub_sku",
+    "LifeTimeSKu": "lifetime_sku",
+    "MonthlyPrice": "$3.99 / Month",
+    "AnnualPrice": "$29.99 / Year",
+    "LifeTimePrice": "$39.99 / Lifetime"
+  },
+  "Paywall2": {
+    "ShowHardPaywall": false,
+    "ShowHardPaywallFor": 5,
+    "AnnualSKu": "annual_sub_sku",
+    "AnnualPrice": "$29.99 / Year"
+  },
+  "Paywall3": {
+    "ShowHardPaywall": false,
+    "ShowHardPaywallFor": 5,
+    "LifeTimeSKu": "lifetime_sku",
+    "LifeTimePrice": "$39.99 / Lifetime"
+  },
   "MoreApps": [
     {
       "AppName": "Pokémon TCG Pocket",
