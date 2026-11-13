@@ -78,13 +78,13 @@
       }
    ],
    "AppControl":{
-      "OnesignalID":"0128ec07-6774-4d4f-ac16-dbc721d011da",
+      "OnesignalID":"",
       "ShowUpdate":false,
       "UpdateLink":"xxxxx",
       "UpdateVersion":1,
       "ShowMockupData":false,
       "UpdateFromAmazon":true,
-      "ShowCategories":false
+      "ShowCategories":true
    },
    "CpaAds":{
       "CpaCode":"bnc00",
