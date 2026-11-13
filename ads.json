@@ -1,94 +1,98 @@
 {
-  "AdsManager": {
-    "ShowAds": true,
-    "ShowDropAds": false,
-    "ShowCpaAds": false,
-    "AdmobClick": 5,
-    "BannerAds": "bb",
-    "InterstitialAds": "bb",
-    "NativeAds": "bb",
-    "RewardAds": "min",
-    "AdmobAppID": "ca-app-pub-3773257020474386~7672612433",
-    "AdmobInterstitial": "ca-app-pub-3773257020474386/2558519572",
-    "AdmobReward": "min",
-    "MintegralAppID": "382108",
-    "MintegralAppKey": "1830ca60e9705834759abc6bbe80a5a5",
-    "MintegralInterstitialUnitID": "4542514",
-    "MintegralInterstitialPlacementID": "2445094",
-    "MintegralRewardUnitID": "4542516",
-    "MintegralRewardPlacementID": "2445096",
-    "AppodealAppKey": "YOUR_APPODEAL_APP_KEY",
-    "TradPlusAppID": "YOUR_TRADPLUS_APP_ID",
-    "FacebookAppID": "YOUR_FACEBOOK_APP_ID",
-    "FacebookInterstitialID": "YOUR_FB_INTERSTITIAL_ID",
-    "FacebookBannerID": "YOUR_FB_BANNER_ID",
-    "FacebookRewardID": "YOUR_FB_REWARD_ID",
-    "BigoAppID": "YOUR_BIGO_APP_ID",
-    "BigoInterstitialID": "YOUR_BIGO_INTERSTITIAL_ID",
-    "BigoBannerID": "YOUR_BIGO_BANNER_ID",
-    "BigoRewardID": "YOUR_BIGO_REWARD_ID",
-    "LiftoffAppID": "YOUR_LIFTOFF_APP_ID",
-    "LiftoffInterstitialID": "YOUR_LIFTOFF_INTERSTITIAL_ID",
-    "LiftoffRewardID": "YOUR_LIFTOFF_REWARD_ID",
-    "LiftoffBannerID": "YOUR_LIFTOFF_BANNER_ID"
-  },
-  "Paywall1": {
-    "ShowHardPaywall": false,
-    "ShowHardPaywallFor": 5,
-    "ShowTrial": true,
-    "MonthlySKu": "monthly_sub_sku",
-    "AnnualSKu": "annual_sub_sku",
-    "LifeTimeSKu": "lifetime_sku",
-    "MonthlyPrice": "$3.99 / Month",
-    "AnnualPrice": "$29.99 / Year",
-    "LifeTimePrice": "$39.99 / Lifetime"
-  },
-  "Paywall2": {
-    "ShowHardPaywall": false,
-    "ShowHardPaywallFor": 5,
-    "AnnualSKu": "annual_sub_sku",
-    "AnnualPrice": "$29.99 / Year"
-  },
-  "Paywall3": {
-    "ShowHardPaywall": false,
-    "ShowHardPaywallFor": 5,
-    "LifeTimeSKu": "lifetime_sku",
-    "LifeTimePrice": "$39.99 / Lifetime"
-  },
-  "MoreApps": [
-    {
-      "AppName": "Pokémon TCG Pocket",
-      "AppIcon": "https://play-lh.googleusercontent.com/CMYCz0j2Dowf_VUybvX00u5TGGkAJp2pGMrYxJcp85L91kou9fGICYcWnb8Pyr1xcQ",
-      "AppPackgeName": "jp.pokemon.pokemontcgp"
-    },
-    {
-      "AppName": "Ludo Star: Online Ludo Gaming",
-      "AppIcon": "https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ",
-      "AppPackgeName": "com.superking.ludo.star"
-    },
-    {
-      "AppName": "FaceApp: Perfect Face Editor",
-      "AppIcon": "https://play-lh.googleusercontent.com/wy7PeVendA2m-DZnkSZepPYA9BaYydp35NhUwiw-BWkqh7BwvTAYMnlox118MmE2mQ",
-      "AppPackgeName": "io.faceapp"
-    },
-    {
-      "AppName": "Duolingo: Language Lessons",
-      "AppIcon": "https://play-lh.googleusercontent.com/vIMymGDzl2arE2styucCrIO35Qv6yX7iJJYZGmIUMXXV_mT5OyR5MjpkfHFB3tc8bA",
-      "AppPackgeName": "com.duolingo"
-    }
-  ],
-  "AppControl": {
-    "OnesignalID": "0128ec07-6774-4d4f-ac16-dbc721d011da",
-    "ShowUpdate": false,
-    "UpdateLink": "xxxxx",
-    "UpdateVersion": 1,
-    "ShowMockupData": false,
-    "UpdateFromAmazon": true,
-    "ShowCategories": false
-  },
-  "CpaAds": {
-    "CpaCode": "bnc00",
-    "CpaAds": []
-  },
-  "DropAds": []
+   "AdsManager":{
+      "ShowAds":true,
+      "ShowDropAds":false,
+      "ShowCpaAds":false,
+      "AdmobClick":5,
+      "BannerAds":"bb",
+      "InterstitialAds":"bb",
+      "NativeAds":"bb",
+      "RewardAds":"min",
+      "AdmobAppID":"ca-app-pub-3773257020474386~7672612433",
+      "AdmobInterstitial":"ca-app-pub-3773257020474386/2558519572",
+      "AdmobReward":"min",
+      "MintegralAppID":"382108",
+      "MintegralAppKey":"1830ca60e9705834759abc6bbe80a5a5",
+      "MintegralInterstitialUnitID":"4542514",
+      "MintegralInterstitialPlacementID":"2445094",
+      "MintegralRewardUnitID":"4542516",
+      "MintegralRewardPlacementID":"2445096",
+      "AppodealAppKey":"YOUR_APPODEAL_APP_KEY",
+      "TradPlusAppID":"YOUR_TRADPLUS_APP_ID",
+      "FacebookAppID":"YOUR_FACEBOOK_APP_ID",
+      "FacebookInterstitialID":"YOUR_FB_INTERSTITIAL_ID",
+      "FacebookBannerID":"YOUR_FB_BANNER_ID",
+      "FacebookRewardID":"YOUR_FB_REWARD_ID",
+      "BigoAppID":"YOUR_BIGO_APP_ID",
+      "BigoInterstitialID":"YOUR_BIGO_INTERSTITIAL_ID",
+      "BigoBannerID":"YOUR_BIGO_BANNER_ID",
+      "BigoRewardID":"YOUR_BIGO_REWARD_ID",
+      "LiftoffAppID":"YOUR_LIFTOFF_APP_ID",
+      "LiftoffInterstitialID":"YOUR_LIFTOFF_INTERSTITIAL_ID",
+      "LiftoffRewardID":"YOUR_LIFTOFF_REWARD_ID",
+      "LiftoffBannerID":"YOUR_LIFTOFF_BANNER_ID"
+   },
+   "Paywall1":{
+      "ShowHardPaywall":false,
+      "ShowHardPaywallFor":5,
+      "ShowTrial":true,
+      "MonthlySKu":"monthly_sub_sku",
+      "AnnualSKu":"annual_sub_sku",
+      "LifeTimeSKu":"lifetime_sku",
+      "MonthlyPrice":"$3.99 / Month",
+      "AnnualPrice":"$29.99 / Year",
+      "LifeTimePrice":"$39.99 / Lifetime"
+   },
+   "Paywall2":{
+      "ShowHardPaywall":false,
+      "ShowHardPaywallFor":5,
+      "AnnualSKu":"annual_sub_sku",
+      "AnnualPrice":"$29.99 / Year"
+   },
+   "Paywall3":{
+      "ShowHardPaywall":false,
+      "ShowHardPaywallFor":5,
+      "LifeTimeSKu":"lifetime_sku",
+      "LifeTimePrice":"$39.99 / Lifetime"
+   },
+   "MoreApps":[
+      {
+         "AppName":"Pokémon TCG Pocket",
+         "AppIcon":"https://play-lh.googleusercontent.com/CMYCz0j2Dowf_VUybvX00u5TGGkAJp2pGMrYxJcp85L91kou9fGICYcWnb8Pyr1xcQ",
+         "AppPackgeName":"jp.pokemon.pokemontcgp"
+      },
+      {
+         "AppName":"Ludo Star: Online Ludo Gaming",
+         "AppIcon":"https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ",
+         "AppPackgeName":"com.superking.ludo.star"
+      },
+      {
+         "AppName":"FaceApp: Perfect Face Editor",
+         "AppIcon":"https://play-lh.googleusercontent.com/wy7PeVendA2m-DZnkSZepPYA9BaYydp35NhUwiw-BWkqh7BwvTAYMnlox118MmE2mQ",
+         "AppPackgeName":"io.faceapp"
+      },
+      {
+         "AppName":"Duolingo: Language Lessons",
+         "AppIcon":"https://play-lh.googleusercontent.com/vIMymGDzl2arE2styucCrIO35Qv6yX7iJJYZGmIUMXXV_mT5OyR5MjpkfHFB3tc8bA",
+         "AppPackgeName":"com.duolingo"
+      }
+   ],
+   "AppControl":{
+      "OnesignalID":"0128ec07-6774-4d4f-ac16-dbc721d011da",
+      "ShowUpdate":false,
+      "UpdateLink":"xxxxx",
+      "UpdateVersion":1,
+      "ShowMockupData":false,
+      "UpdateFromAmazon":true,
+      "ShowCategories":false
+   },
+   "CpaAds":{
+      "CpaCode":"bnc00",
+      "CpaAds":[
+         
+      ]
+   },
+   "DropAds":[
+      
+   ]
 }
