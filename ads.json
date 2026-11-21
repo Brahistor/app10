@@ -84,7 +84,7 @@
     "UpdateVersion": 1,
     "ShowMockupData": true,
     "UpdateFromAmazon": true,
-    "ShowCategories": true
+    "ShowCategories": false
   },
   "CpaAds": {
     "CpaCode": "bnc00",
